@@ -1,1 +1,1 @@
-https://kanban-by-ramin.netlify.app/
+https://coin-search-react.netlify.app/
